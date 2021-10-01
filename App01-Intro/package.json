@@ -1,0 +1,27 @@
+{
+  "name": "app01-intro",
+  "version": "1.0.0",
+  "description": "App Desktop Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhhg04/Electron-Jortiz-Curse.git"
+  },
+  "keywords": [
+    "js",
+    "electron",
+    "node"
+  ],
+  "author": "jhhg04",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhhg04/Electron-Jortiz-Curse/issues"
+  },
+  "homepage": "https://github.com/jhhg04/Electron-Jortiz-Curse#readme",
+  "devDependencies": {
+    "electron": "^15.0.0"
+  }
+}
